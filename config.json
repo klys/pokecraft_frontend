@@ -1,3 +1,4 @@
 {
-   "backendUrl" :	"https://venova-alpha-backend.adventurex.games"
+  "backendUrl": "https://venova-alpha-backend.adventurex.games",
+  "assetStorageBaseUrl": "https://venova-2022-assets.adventurex.games"
 }
